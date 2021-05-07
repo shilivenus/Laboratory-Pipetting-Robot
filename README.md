@@ -1,76 +1,5 @@
 # Laboratory-Pipetting-Robot
 
-
-收到来自Charmaine Thum的新邮件  显示  忽略
-
-跳至内容
-通过屏幕阅读器使用 Gmail
-会议
-发起新会议
-加入会议
-Hangouts
-
-第 2 个会话，共 3,461 个
-MyDNA: .NET Developer Coding Tech Test - Please complete this weekend
-收件箱
-
-Charmaine Thum
-附件
-下午1:59 (4小时前)
-发送至 Charmaine、 Michael、 Kimberley、 密送：我
-
-   
-翻译邮件
-对英语停用
-Good Afternoon,
-
-We have submitted your resume to MyDNA Life and congratulations!
-
-They would like to pass you from a .NET Developer tech test as per attached.
-
-Are you able to complete this over the weekend and send me back the results by say Sunday 9th May 5.30PM?
-
-Feel free to advise if you need more time but we look forward to hearing from you regarding your completed tech test!
-
-Charmaine
-
-
-
-Charmaine Thum
-
-Charmaine Thum
-
-New Business & Development Manager
-
-+61 3 9020 1996 / 0439 320 538
-
-cthum@siriustechnology.com.au
-
-L2, 517 Flinders Lane, Melbourne, VIC 3000 
-
-siriuspeople.com.au
-
-LinkedIn  YouTube  Facebook  Instagram  Twitter  Please leave a review!  Most APSCo-certified recruitment partner in Australia
-
-                              
- Download the Salary Guide FY 20/21 now >>
-                               
-2 个附件
-
-Li Shi
-下午2:59 (3小时前)
-发送至 Charmaine
-
-Hi Charmaine
-
-I really do not time for this weekend. I think it will take two days to finish. I can start work on it in next Monday. Thank you.
-
-Regards
-
-Peter
-
-Charmaine Thum <cthum@siriustechnology.com.au> 于2021年5月7日周五 下午1:59写道：
-
 Description:
 . The application is a simulation of a laboratory pipetting robot arm moving above a square plate of 25 wells, of dimensions 5 units x 5 units.
 . The robot is free to roam above the surface of the plate, but must be prevented from moving beyond the boundaries of the plate. Any movement 
@@ -122,6 +51,3 @@ MOVE N
 MOVE E
 REPORT
 Output: 2,3,EMPTY
-
-Robot Coding Puzzle 2.txt
-当前显示Robot Coding Puzzle 2.txt。
