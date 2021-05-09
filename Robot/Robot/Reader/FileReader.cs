@@ -10,6 +10,11 @@ namespace Robot.Reader
 {
     public class FileReader : IFileReader
     {
+        /// <summary>
+        /// Read commands from input file
+        /// </summary>
+        /// <param name="filePath">file path</param>
+        /// <returns>Command List</returns>
         public IList<RobotCommand> GetCommands(string filePath)
         {
             var rawCommands = File.ReadAllLines(filePath).ToList();
@@ -52,6 +57,11 @@ namespace Robot.Reader
             return robotCommands;
         }
 
+        /// <summary>
+        /// Read initial plate status from file
+        /// </summary>
+        /// <param name="filePath">input file path</param>
+        /// <returns>List of string</returns>
         public IList<string> GetInitialPlateStatus(string filePath)
         {
             return File.ReadAllLines(filePath).ToList();

@@ -17,6 +17,9 @@ namespace Robot
             _robot = robot;
         }
 
+        /// <summary>
+        /// Inital plate and Excute commands
+        /// </summary>
         public void Excute()
         {            
             var initalPlateStatus = _fileReader.GetInitialPlateStatus(@".\InputFile\InitialPlate.txt");
